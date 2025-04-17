@@ -1,11 +1,11 @@
-# expiring-map
+# expiring-types
 
 A lightweight TypeScript library providing data structures with automatic expiration functionality.
 
 ## Installation
 
 ```bash
-npm install expiring-map
+npm install expiring-types
 ```
 
 ## Features
