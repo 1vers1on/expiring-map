@@ -21,7 +21,7 @@ npm install expiring-types
 ### ExpiringMap
 
 ```typescript
-import { ExpiringMap } from 'expiring-map';
+import { ExpiringMap } from 'expiring-types';
 
 // Create a map with entries that expire after 5000ms (5 seconds)
 const cache = new ExpiringMap<string, any>(5000);
@@ -54,7 +54,7 @@ cache.clear();
 ### ExpiringSet
 
 ```typescript
-import { ExpiringSet } from 'expiring-map';
+import { ExpiringSet } from 'expiring-types';
 
 // Create a set with elements that expire after 10000ms (10 seconds)
 const recentUsers = new ExpiringSet<string>(10000);
