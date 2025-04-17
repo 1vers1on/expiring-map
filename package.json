@@ -1,6 +1,6 @@
 {
-  "name": "expiring-map",
-  "version": "1.0.3",
+  "name": "expiring-types",
+  "version": "1.0.0",
   "description": "Expiring map and expiring sets",
   "license": "MIT",
   "author": "1vers1on",
