@@ -1,6 +1,6 @@
 {
   "name": "expiring-map",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Expiring map and expiring sets",
   "license": "MIT",
   "author": "1vers1on",
@@ -8,7 +8,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/1vers1on/expiring-map.git"
+    "url": "git+https://github.com/1vers1on/expiring-map.git"
   },
   "keywords": [
     "map",
