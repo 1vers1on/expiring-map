@@ -6,6 +6,10 @@
   "author": "1vers1on",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1vers1on/expiring-map.git"
+  },
   "keywords": [
     "map",
     "set",
